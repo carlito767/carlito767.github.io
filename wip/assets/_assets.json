@@ -1,0 +1,136 @@
+{
+    "assets": [
+        {
+            "name": "block.png"
+        },
+        {
+            "name": "bloom.frag"
+        },
+        {
+            "name": "bloom.vert"
+        },
+        {
+            "name": "blur.frag"
+        },
+        {
+            "name": "blur.vert"
+        },
+        {
+            "name": "entypo.fnt"
+        },
+        {
+            "name": "entypo.png"
+        },
+        {
+            "name": "fxaa.frag"
+        },
+        {
+            "name": "fxaa.vert"
+        },
+        {
+            "name": "gaussianBlur.frag"
+        },
+        {
+            "name": "glow.frag"
+        },
+        {
+            "name": "glow.vert"
+        },
+        {
+            "name": "goal.png"
+        },
+        {
+            "name": "innerLight.frag"
+        },
+        {
+            "name": "item-apple.png"
+        },
+        {
+            "name": "item-end1.png"
+        },
+        {
+            "name": "item-end2.png"
+        },
+        {
+            "name": "item-end3.png"
+        },
+        {
+            "name": "item-end4.png"
+        },
+        {
+            "name": "item-end5.png"
+        },
+        {
+            "name": "item-end6.png"
+        },
+        {
+            "name": "item-end7.png"
+        },
+        {
+            "name": "item-end8.png"
+        },
+        {
+            "name": "item-end9.png"
+        },
+        {
+            "name": "item-minus.png"
+        },
+        {
+            "name": "item-plus.png"
+        },
+        {
+            "name": "level-tutorial01.txt"
+        },
+        {
+            "name": "level-tutorial02.txt"
+        },
+        {
+            "name": "level-tutorial03.txt"
+        },
+        {
+            "name": "level-tutorial04.txt"
+        },
+        {
+            "name": "msdf.frag"
+        },
+        {
+            "name": "msdf.vert"
+        },
+        {
+            "name": "outline.frag"
+        },
+        {
+            "name": "outline.vert"
+        },
+        {
+            "name": "pixelArt.frag"
+        },
+        {
+            "name": "pixelArt.vert"
+        },
+        {
+            "name": "RobotoMedium.fnt"
+        },
+        {
+            "name": "RobotoMedium.png"
+        },
+        {
+            "name": "textured.frag"
+        },
+        {
+            "name": "textured.vert"
+        },
+        {
+            "name": "tile.png"
+        },
+        {
+            "name": "tintBlack.frag"
+        },
+        {
+            "name": "tintBlack.vert"
+        },
+        {
+            "name": "white.png"
+        }
+    ]
+}

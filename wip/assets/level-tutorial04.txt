@@ -1,0 +1,27 @@
+version 1
+size 15 11
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+blocks ggggggggggggggg
+item 6 1 1
+item 7 0 1
+item 7 1 apple
+item 7 2 1
+item 7 4 minus
+item 7 5 5
+item 7 6 plus
+item 8 1 1
+tiles 40 51 55
+goal 1 apple
+start 7 5
+move 51 7 5 180 1
+move 51 7 4 0 1
+move 11 7 2 0 0

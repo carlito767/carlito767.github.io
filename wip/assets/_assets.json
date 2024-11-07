@@ -1,0 +1,115 @@
+{
+    "assets": [
+        {
+            "name": "bloom.frag"
+        },
+        {
+            "name": "bloom.vert"
+        },
+        {
+            "name": "blur.frag"
+        },
+        {
+            "name": "blur.vert"
+        },
+        {
+            "name": "ends/ends1.png"
+        },
+        {
+            "name": "ends/ends2.png"
+        },
+        {
+            "name": "ends/ends3.png"
+        },
+        {
+            "name": "ends/ends4.png"
+        },
+        {
+            "name": "ends/ends5.png"
+        },
+        {
+            "name": "ends/ends6.png"
+        },
+        {
+            "name": "ends/ends7.png"
+        },
+        {
+            "name": "ends/ends8.png"
+        },
+        {
+            "name": "ends/ends9.png"
+        },
+        {
+            "name": "entypo.fnt"
+        },
+        {
+            "name": "entypo.png"
+        },
+        {
+            "name": "fxaa.frag"
+        },
+        {
+            "name": "fxaa.vert"
+        },
+        {
+            "name": "gaussianBlur.frag"
+        },
+        {
+            "name": "glow.frag"
+        },
+        {
+            "name": "glow.vert"
+        },
+        {
+            "name": "goal.png"
+        },
+        {
+            "name": "innerLight.frag"
+        },
+        {
+            "name": "items/apple.png"
+        },
+        {
+            "name": "msdf.frag"
+        },
+        {
+            "name": "msdf.vert"
+        },
+        {
+            "name": "outline.frag"
+        },
+        {
+            "name": "outline.vert"
+        },
+        {
+            "name": "pixelArt.frag"
+        },
+        {
+            "name": "pixelArt.vert"
+        },
+        {
+            "name": "RobotoMedium.fnt"
+        },
+        {
+            "name": "RobotoMedium.png"
+        },
+        {
+            "name": "textured.frag"
+        },
+        {
+            "name": "textured.vert"
+        },
+        {
+            "name": "tile-blank.png"
+        },
+        {
+            "name": "tintBlack.frag"
+        },
+        {
+            "name": "tintBlack.vert"
+        },
+        {
+            "name": "white.png"
+        }
+    ]
+}
